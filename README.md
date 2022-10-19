@@ -1,4 +1,4 @@
-# Binane_API_tool
+# Binance_API_tool
   To help using binance api to trading by future mode.
 
 # 使用方式
